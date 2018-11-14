@@ -1,0 +1,2 @@
+class Rewiew < ApplicationRecord
+end
